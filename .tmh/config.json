@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/parkaqrjgzme/defaulttenant/testmanager_",
+  "defaultProject": {
+    "id": "44909e4d-2a0a-0000-7602-0b43f55f37c9",
+    "name": "TestProj",
+    "key": "TPJ"
+  }
+}
